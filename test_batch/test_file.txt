@@ -1,0 +1,19 @@
+this is a test file for git testing
+changes made
+another changes made
+Action: Start a program
+Program/script: path to your batch script e.g. C:\Users\beruk\bodo.bat
+Add arguments (optional): <if necessary - depending on your script>
+Start in (optional): Put the full path to your batch script location e.g. C:\Users\beruk\(Do not put quotes around Start In)
+Then Click OK
+
+It works for me. Good Luck!
+
+good luck again
+
+hello there I have made changes this time also 
+askldfjals
+askdfkasjfalksfd 
+kjlhklhkjlh
+asdfasdfas
+test final
