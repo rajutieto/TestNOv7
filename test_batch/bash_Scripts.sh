@@ -4,5 +4,5 @@ git add .
 sleep 1
 git commit -m "changes made."
 sleep 1
-git push origin master
+git push origin test_git_branch
 sleep 1
