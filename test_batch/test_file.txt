@@ -7,7 +7,7 @@ Add arguments (optional): <if necessary - depending on your script>
 Start in (optional): Put the full path to your batch script location e.g. C:\Users\beruk\(Do not put quotes around Start In)
 Then Click OK
 
-It works for me. Good Luck!
+It works for me. Good Luck! Team
 
 good luck again
 
