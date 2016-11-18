@@ -5,7 +5,7 @@ Action: Start a program
 Program/script: path to your batch script e.g. C:\Users\beruk\bodo.bat
 Add arguments (optional): <if necessary - depending on your script>
 Start in (optional): Put the full path to your batch script location e.g. C:\Users\beruk\(Do not put quotes around Start In)
-Then Click OK
+Then Click OK Thanks!
 
 It works for me. Good Luck! Team
 
