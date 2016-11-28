@@ -3,3 +3,9 @@ Hey ..
 Testing my tool
 
 Commit every 2 minutes.
+
+I am testing the changes 
+
+It should be commited automatically
+
+I have changed in mytest
