@@ -17,3 +17,5 @@ After commit it sends email automatically
 
 You can set up repetation as you desire, but i recommend to make it daily from Monday to Friday 5 pm.
 
+github ma change 12:08
+
